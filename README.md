@@ -21,19 +21,7 @@ A Google Apps Script designed to automatically apply the **Avoin.Systems** brand
 
 ## Usage
 
-### 1. First-Time Setup
-* When you run the script for the first time, Google will ask for **Authorization**.
-* Click **Review Permissions**, select your account, and then click **Advanced > Go to [Your Project Name] (unsafe)**. This is a standard Google security warning for custom scripts.
-* Click **Allow**.
-
-### 2. Applying Styles
-* **Entire Document**: Simply click **Avoin.Tools > Apply Avoin.Styles! ✨**. The script will automatically format every heading, paragraph, and list in the document.
-* **Partial Selection**: Highlight a specific section of text first, then run the command. Only the selected area will be updated.
-
-### 3. Using the Brand Palette
-* Each time you run the script, it "primes" the document with your brand colors.
-* Open the standard Google Docs **Text Color** or **Highlight Color** picker.
-* Look at the **"Recent"** row—you will find the official Avoin burgundy, lavender, orange, coral, etc., ready for manual use!
+- **Apply Avoin.Styles! ✨**: Select text or leave the selection empty to format the whole document with brand styles.
 
 ---
 *Created by Svante Suominen on Runeberg Day, February 5th, 2026.*
